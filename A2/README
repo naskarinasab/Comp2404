@@ -1,0 +1,30 @@
+Program Author: Navid Askari Nasab
+Student #: 101039154
+Date: Monday, February 26th, 2018
+
+Purpose: Small program which could be used by an automotive mechanic business to keep track of their customers and their vehicles.
+Also looks at the use of classes and objects in C++.
+
+List of source/header/data files:
+-CustomerArray.cc
+-CustomerArray.h
+-Customer.cc
+-Customer.h
+-defs.h
+-main.cc
+-Makefile
+-Shop.cc
+-Shop.h
+-ShopController.cc
+-ShopController.h
+-VehicleArray.cc
+-VehicleArray.h
+-Vehicle.cc
+-Vehicle.h
+-View.cc
+-View.h
+
+Compilation command: make
+Execution command: ./mechanicshop
+
+Operating Instructions: To see a list of customers, simply enter "1". To exit the program, simply enter "0".

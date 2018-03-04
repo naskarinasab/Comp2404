@@ -1,0 +1,37 @@
+Program Author: Navid Askari Nasab
+Student Number: 101039154
+Date: Friday, February 2nd, 2018
+
+Purpose: Small program which could be used by an automotive mechanic business to keep track of their customers and their vehicles.
+
+List of source/header/data files: 
+-assignment1.c
+
+Compilation Command: gcc -Wall -o assignment1 assignment1.c
+
+Launching Command: ./assignment1
+
+Sample Console Output:
+Navid Askari Nasab, 1 vehicle(s).
+2007 Ford Fiesta, Red, 100000KM
+
+Ben Franklin, 1 vehicle(s).
+2016 Subaru Forester, Green, 40000KM
+
+Rob Cesternino, 2 vehicle(s).
+2018 Honda Accord, White, 5000KM
+1972 Volkswagen Beetle, White, 5000KM
+
+Tony Vlachos, 1 vehicle(s).
+2010 Toyota Camry, Black, 50000KM
+
+Stephen Fishbach, 3 vehicle(s).
+2013 Toyota Carolla, Green, 80000KM
+2015 Toyota Rav4, Gold, 20000KM
+2017 Toyota Prius, Blue, 10000KM
+
+Meredith Grey, 4 vehicle(s).
+2012 GM Envoy, Purple, 60000KM
+2016 GM Escalade, Black, 40000KM
+2015 GM Malibu, Red, 20000KM
+2012 GM Trailblazer, Orange, 90000KM
